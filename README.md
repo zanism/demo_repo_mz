@@ -7,3 +7,5 @@ filez adding and edit from this workshop
 Julia is adding a line to create a conflict.
 
 will keep all information
+
+I think I made some really great changes here.
